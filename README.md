@@ -1,6 +1,8 @@
 # NSLLM: 面向自然科学领域的学术大语言模型
 # NSLLM: Natural Science Large Language Model
 
+https://modelscope.cn/models/markdcle/NSLLM/summary
+
 ## 1. 模型概述
 ## 1. Model Overview
 
