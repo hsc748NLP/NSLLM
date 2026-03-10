@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model weights
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Optional large archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
