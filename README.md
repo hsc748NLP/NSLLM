@@ -104,6 +104,37 @@ We conducted extensive comparative validation across six major downstream tasks:
 
 This study verifies the effectiveness of domain-specific training in enhancing the professional capabilities of large language models. In the future, we will further explore interdisciplinary data fusion and knowledge update mechanisms to continuously improve the model's performance in research assistance scenarios.
 
+
+## 5. 模型权重说明
+## 5. Model Weights
+
+Due to GitHub file size limits, this repository does **not** directly include the pretrained weight files of **NSLLM**.  
+The model weights are released through external hosting platforms and can be accessed from the following links.
+
+由于 GitHub 对大文件上传与存储存在限制，本仓库**不直接包含** **NSLLM** 的预训练权重文件。  
+模型权重已通过外部模型托管平台发布，可通过以下链接获取。
+
+### Hugging Face
+- [NSLLM on Hugging Face](https://huggingface.co/hangqin/NSLLM)
+
+### ModelScope
+The ModelScope release currently provides the checkpoint in four `safetensors` shards:
+
+- [model-00001-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00001-of-00004.safetensors?status=2)
+- [model-00002-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00002-of-00004.safetensors?status=2)
+- [model-00003-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00003-of-00004.safetensors?status=2)
+- [model-00004-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00004-of-00004.safetensors?status=2)
+
+ModelScope 当前发布的权重以 4 个 `safetensors` 分片文件形式提供：
+
+- [model-00001-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00001-of-00004.safetensors?status=2)
+- [model-00002-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00002-of-00004.safetensors?status=2)
+- [model-00003-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00003-of-00004.safetensors?status=2)
+- [model-00004-of-00004.safetensors](https://modelscope.cn/models/markdcle/NSLLM/file/view/master/model-00004-of-00004.safetensors?status=2)
+
+
+
+
 ## 声明
 ## Disclaimer
 
